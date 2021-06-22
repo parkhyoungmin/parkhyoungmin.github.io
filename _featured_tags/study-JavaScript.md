@@ -1,8 +1,8 @@
 ---
-title: Oracle
+title: JavaScript
 layout: tag-blog
-slug: Oracle
+slug: JavaScript
 category: study
 menu: false
-order: 2
+order: 1
 ---
