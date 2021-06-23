@@ -65,7 +65,7 @@ SNS 사이트 Instagram을 모티브로 제작되었으며, Instagram 웹사이�
 
 -Tool : Eclipse (jdk-14)
 
--FrameWork: Spring, myBATIS, Maven
+-FrameWork: Spring, Mybatis, Maven
 
 -Git, jQuery (ajax)
 
