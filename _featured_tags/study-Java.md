@@ -1,8 +1,8 @@
 ---
-title: IT_Knowledge
+title: Java
 layout: tag-blog
-slug: IT_Knowledge
+slug: Java
 category: study
 menu: false
-order: 4
+order: 1
 ---
