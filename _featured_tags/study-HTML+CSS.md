@@ -1,8 +1,8 @@
 ---
-title: JavaScript
+title: HTML+CSS
 layout: tag-blog
-slug: JavaScript
+slug: HTML+CSS
 category: study
 menu: false
-order: 3
+order: 2
 ---
