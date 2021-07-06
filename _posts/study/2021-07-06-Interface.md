@@ -19,7 +19,7 @@ public interface InterfaceA {
 }
 
 public interface InterfaceB {  
-	public void funB();  
+	public void funB();  	
 }
 
 <script src="https://gist.github.com/parkhyoungmin/60fe0f2f07b03ef49663fc73fbd193d2.js"></script>
