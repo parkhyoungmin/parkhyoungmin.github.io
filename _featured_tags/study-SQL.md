@@ -1,8 +1,8 @@
 ---
-title: Oracle
+title: SQL
 layout: tag-blog
-slug: Oracle
+slug: SQL
 category: study
 menu: false
-order: 5
+order: 4
 ---
