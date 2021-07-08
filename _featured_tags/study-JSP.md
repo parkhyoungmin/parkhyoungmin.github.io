@@ -1,8 +1,8 @@
 ---
-title: Bootstrap
+title: JSP
 layout: tag-blog
-slug: Bootstrap
+slug: JSP
 category: study
 menu: false
-order: 7
+order: 2
 ---
