@@ -1,8 +1,8 @@
 ---
-title: IT_Knowledge
+title: Bootstrap
 layout: tag-blog
-slug: IT_Knowledge
+slug: Bootstrap
 category: study
 menu: false
-order: 9
+order: 7
 ---
