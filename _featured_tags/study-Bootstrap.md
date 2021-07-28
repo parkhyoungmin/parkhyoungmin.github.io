@@ -1,7 +1,7 @@
 ---
-title: Git
+title: Bootstrap
 layout: tag-blog
-slug: Git
+slug: Bootstrap
 category: study
 menu: false
 order: 8
